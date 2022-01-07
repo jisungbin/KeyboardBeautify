@@ -10,7 +10,6 @@ Awesome keyboard animator that supports Android SDK 23 ✨
 
 Come to YouTube for a smoother preview -> https://youtu.be/Sp9QJEopFp4
 
-
 ---
 
 # Download [![](https://img.shields.io/maven-central/v/land.sungbin/keyboardbeautify)](https://search.maven.org/artifact/land.sungbin/keyboardbeautify)
