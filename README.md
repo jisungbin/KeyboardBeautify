@@ -30,7 +30,7 @@ Basic extension. Support SDK 23+.
 Activity.keyboardBeautify(
     rootView: ViewGroup,
     inputLayout: ViewGroup,
-    otherView: View? = null, // optional,
+    otherView: View? = null, // optional, View to which animation is applied according to the state of the IME
     editText: EditText
 )
 ```
@@ -55,6 +55,6 @@ TODO
 
 # Article (ko)
 
-Currently writing. Wait for a while!
+I am currently writing. Wait a minute!
 
 # Happy Coding :)
