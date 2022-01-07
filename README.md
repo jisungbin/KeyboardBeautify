@@ -1,3 +1,3 @@
 # KeyboardBeautify
 
-Awesome Android API 23 compliant keyboard animator ✨
+Awesome keyboard animator that supports Android SDK 23 ✨
