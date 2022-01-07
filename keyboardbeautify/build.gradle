@@ -7,7 +7,7 @@ ext {
     PUBLISH_GROUP_ID = 'land.sungbin'
     PUBLISH_VERSION = '1.0.0'
     PUBLISH_ARTIFACT_ID = 'keyboardbeautify'
-    PUBLISH_DESCRIPTION = 'Awesome Android API 23 compliant keyboard animator'
+    PUBLISH_DESCRIPTION = 'Awesome keyboard animator that supports Android SDK 23 ✨'
     PUBLISH_URL = 'https://github.com/jisungbin/KeyboardBeautify'
     PUBLISH_LICENSE_NAME = 'MIT License'
     PUBLISH_LICENSE_URL = 'https://github.com/jisungbin/KeyboardBeautify/blob/master/LICENSE'
@@ -34,6 +34,10 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin/'
+    }
+
     kotlinOptions {
         jvmTarget = '1.8'
     }
@@ -41,6 +45,6 @@ android {
 
 dependencies {
     implementation 'androidx.core:core-ktx:1.7.0'
-    implementation 'androidx.appcompat:appcompat:1.4.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
+    implementation 'androidx.dynamicanimation:dynamicanimation-ktx:1.0.0-alpha03'
 }

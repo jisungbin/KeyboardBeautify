@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KeyboardBeautify</string>
+
+    <string name="message_from">Hello?</string>
+    <string name="message_to">Bye.</string>
+    <string name="message_hint">Type a message…</string>
 </resources>
