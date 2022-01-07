@@ -1,3 +1,5 @@
+<img src="https://github.com/jisungbin/KeyboardBeautify/blob/master/art/keyboardbeautify-preview-compress.gif?raw=true" width="20%" align="right"/>
+
 # KeyboardBeautify
 
 Awesome keyboard animator that supports Android SDK 23 ✨
@@ -13,8 +15,6 @@ implementation "land.sungbin:keyboardbeautify:${version}"
 ---
 
 # Preview
-
-<img src="https://github.com/jisungbin/KeyboardBeautify/blob/master/art/keyboardbeautify-preview-compress.gif?raw=true" width="15%" />
 
 Come to YouTube for a smoother preview -> https://youtu.be/Sp9QJEopFp4
 
