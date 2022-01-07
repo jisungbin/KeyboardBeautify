@@ -1,0 +1,46 @@
+plugins {
+    id 'com.android.library'
+    id 'org.jetbrains.kotlin.android'
+}
+
+ext {
+    PUBLISH_GROUP_ID = 'land.sungbin'
+    PUBLISH_VERSION = '1.0.0'
+    PUBLISH_ARTIFACT_ID = 'keyboardbeautify'
+    PUBLISH_DESCRIPTION = 'Awesome Android API 23 compliant keyboard animator'
+    PUBLISH_URL = 'https://github.com/jisungbin/KeyboardBeautify'
+    PUBLISH_LICENSE_NAME = 'MIT License'
+    PUBLISH_LICENSE_URL = 'https://github.com/jisungbin/KeyboardBeautify/blob/master/LICENSE'
+    PUBLISH_DEVELOPER_ID = 'jisungbin'
+    PUBLISH_DEVELOPER_NAME = 'Ji Sungbin'
+    PUBLISH_DEVELOPER_EMAIL = 'ji@sungb.in'
+    PUBLISH_SCM_CONNECTION = 'scm:git:github.com/jisungbin/KeyboardBeautify.git'
+    PUBLISH_SCM_DEVELOPER_CONNECTION = 'scm:git:ssh://github.com/jisungbin/KeyboardBeautify.git'
+    PUBLISH_SCM_URL = 'https://github.com/jisungbin/KeyboardBeautify/tree/master'
+}
+
+apply from: "${rootProject.projectDir}/scripts/publish-module.gradle"
+
+android {
+    compileSdk 31
+
+    defaultConfig {
+        minSdk 23
+        targetSdk 31
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
+dependencies {
+    implementation 'androidx.core:core-ktx:1.7.0'
+    implementation 'androidx.appcompat:appcompat:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
+}
