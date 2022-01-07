@@ -14,7 +14,9 @@ implementation "land.sungbin:keyboardbeautify:${version}"
 
 # Preview
 
-todo
+<img src="https://github.com/jisungbin/KeyboardBeautify/blob/master/art/keyboardbeautify-preview-compress.gif?raw=true" width="15%" />
+
+Come to YouTube for a smoother preview -> https://youtu.be/Sp9QJEopFp4
 
 # Usage
 
