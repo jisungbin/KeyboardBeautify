@@ -51,6 +51,6 @@ Automatically control the [IME](https://android-developers.googleblog.com/2009/0
 
 # Article
 
-Process in writing...
+Currently writing. Wait for a while!
 
 # Happy Coding :)
