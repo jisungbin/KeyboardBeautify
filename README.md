@@ -20,7 +20,7 @@ todo
 
 ### Kotlin
 
-Basic extension. Support SDK 23+
+Basic extension. Support SDK 23+.
 
 ```kotlin
 Activity.keyboardBeautify(
