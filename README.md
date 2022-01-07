@@ -6,17 +6,18 @@ Awesome keyboard animator that supports Android SDK 23 ✨
 
 > This library was created based on the [android/user-interface-samples](https://github.com/android/user-interface-samples/tree/master/WindowInsetsAnimation).
 
+# Preview
+
+Come to YouTube for a smoother preview -> https://youtu.be/Sp9QJEopFp4
+
+
+---
+
 # Download [![](https://img.shields.io/maven-central/v/land.sungbin/keyboardbeautify)](https://search.maven.org/artifact/land.sungbin/keyboardbeautify)
 
 ```groovy
 implementation "land.sungbin:keyboardbeautify:${version}"
 ```
-
----
-
-# Preview
-
-Come to YouTube for a smoother preview -> https://youtu.be/Sp9QJEopFp4
 
 # Usage
 
