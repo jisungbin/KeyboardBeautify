@@ -49,7 +49,7 @@ Automatically control the [IME](https://android-developers.googleblog.com/2009/0
 
 ---
 
-# Article
+# Article (ko)
 
 Currently writing. Wait for a while!
 
