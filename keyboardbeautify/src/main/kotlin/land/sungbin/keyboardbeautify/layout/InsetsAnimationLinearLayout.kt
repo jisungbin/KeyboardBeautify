@@ -11,7 +11,6 @@ import androidx.core.view.NestedScrollingParentHelper
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import land.sungbin.keyboardbeautify.core.SimpleImeAnimationController
-import land.sungbin.keyboardbeautify.core.suppressLayoutCompat
 
 @RequiresApi(30)
 class InsetsAnimationLinearLayout @JvmOverloads constructor(

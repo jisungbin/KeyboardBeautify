@@ -1,4 +1,4 @@
-package land.sungbin.keyboardbeautify.core
+package land.sungbin.keyboardbeautify.layout
 
 import android.annotation.SuppressLint
 import android.os.Build
