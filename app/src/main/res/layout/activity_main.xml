@@ -1,4 +1,4 @@
-<land.sungbin.keyboardbeautify.core.InsetsAnimationLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<land.sungbin.keyboardbeautify.layout.InsetsAnimationLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -74,4 +74,4 @@
 
     </LinearLayout>
 
-</land.sungbin.keyboardbeautify.core.InsetsAnimationLinearLayout>
+</land.sungbin.keyboardbeautify.layout.InsetsAnimationLinearLayout>

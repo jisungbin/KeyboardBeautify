@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "land.sungbin.preview"
+        applicationId "land.sungbin"
         minSdk 23
         targetSdk 31
         versionCode 1

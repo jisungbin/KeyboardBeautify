@@ -1,15 +1,19 @@
-package land.sungbin.keyboardbeautify.core
+package land.sungbin.keyboardbeautify.layout
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.View
 import android.view.WindowInsetsAnimation
 import android.widget.LinearLayout
+import androidx.annotation.RequiresApi
 import androidx.core.view.NestedScrollingParent3
 import androidx.core.view.NestedScrollingParentHelper
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import land.sungbin.keyboardbeautify.core.SimpleImeAnimationController
+import land.sungbin.keyboardbeautify.core.suppressLayoutCompat
 
+@RequiresApi(30)
 class InsetsAnimationLinearLayout @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet? = null,
