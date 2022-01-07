@@ -18,7 +18,7 @@ todo
 
 > VERY SIMPLE. JUST ONE LINE.
 
-### kotlin
+### Kotlin
 
 Basic extensions. Support SDK 23+
 
