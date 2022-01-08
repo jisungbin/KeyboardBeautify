@@ -24,7 +24,7 @@ implementation "land.sungbin:keyboardbeautify:${version}"
 
 ### Kotlin
 
-Basic extension. Support SDK 23+.
+Basic extension. **Support SDK 23+.**
 
 ```kotlin
 Activity.keyboardBeautify(
@@ -37,7 +37,7 @@ Activity.keyboardBeautify(
 
 ### XML
 
-Optional beautify. Support SDK 30+.
+Optional beautify. **Support SDK 30+.**
 
 Automatically control the [IME](https://android-developers.googleblog.com/2009/04/updating-applications-for-on-screen.html) inset and visibility with nested scrolling of views.
 
