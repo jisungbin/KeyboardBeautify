@@ -31,7 +31,7 @@ Activity.keyboardBeautify(
     rootView: ViewGroup,
     inputLayout: ViewGroup,
     otherView: View? = null, // Optional, View to which animation is applied according to the state of the IME.
-    editText: EditText // Automatically sets the EditText focusing to match the state of the IDE.
+    editText: EditText // Automatically sets the EditText focusing to match the state of the IME.
 )
 ```
 
