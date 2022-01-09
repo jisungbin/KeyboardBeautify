@@ -39,7 +39,7 @@ Activity.keyboardBeautify(
 
 Optional beautify. **Support SDK 30+.**
 
-Automatically control the [IME](https://android-developers.googleblog.com/2009/04/updating-applications-for-on-screen.html) inset and visibility with nested scrolling of views.
+Automatically control the [IME](https://android-developers.googleblog.com/2009/04/updating-applications-for-on-screen.html) insets and visibility with nested scrolling of views.
 
 
 ```xml
