@@ -2,7 +2,7 @@
 
 # KeyboardBeautify
 
-Awesome keyboard animator that supports Android SDK 23 ✨
+Awesome keyboard animator that supports Android SDK 21+ ✨
 
 > This library was created based on the [android/user-interface-samples](https://github.com/android/user-interface-samples/tree/master/WindowInsetsAnimation).
 
@@ -24,7 +24,7 @@ implementation "land.sungbin:keyboardbeautify:${version}"
 
 ### Kotlin
 
-Basic extension. **Support SDK 23+.**
+Basic extension. **Support SDK 21+.**
 
 ```kotlin
 Activity.keyboardBeautify(
