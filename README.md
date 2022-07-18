@@ -1,4 +1,4 @@
-<img src="https://github.com/jisungbin/KeyboardBeautify/blob/master/art/keyboardbeautify-preview-compress.gif?raw=true" width="20%" align="right"/>
+<img src="https://github.com/jisungbin/KeyboardBeautify/blob/master/art/keyboardbeautify-preview-compress.gif?raw=true" width="200" align="right"/>
 
 # KeyboardBeautify
 
